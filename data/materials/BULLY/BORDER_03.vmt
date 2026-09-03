@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bully/border_03"
+	"$envmapmask" "bully/border_03_spec"
+	"$bumpmap" "bully/border_03_norm"
+	"$surfaceprop" "Wood_Solid"
+}

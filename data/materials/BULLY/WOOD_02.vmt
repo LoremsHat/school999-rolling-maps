@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+{
+	$phong 1
+	
+	$phongboost				1.0
+	$phongfresnelranges		"[0 0.5 1]"
+	
+	"$bumpmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$envmapsaturation" "0.3"
+	"$envmapcontrast" "0.6"
+	
+	"$basetexture" "bully/wood_02"
+	"$envmapmask" "bully/wood_02_spec"
+	"$bumpmap" "bully/wood_02_norm"
+	"$surfaceprop" "Wood_Solid"
+}

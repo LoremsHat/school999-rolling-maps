@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "para/int_paint_wall15"
+	"$bumpmap" "para/int_paint_wall_normal"
+	"$surfaceprop" "Wood_Panel"
+}

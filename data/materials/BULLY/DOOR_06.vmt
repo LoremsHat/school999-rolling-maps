@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bully/door_06"
+	"$envmapmask" "bully/door_06_spec"
+	"$bumpmap" "bully/door_06_norm"
+	"$surfaceprop" "Wood_Solid"
+}

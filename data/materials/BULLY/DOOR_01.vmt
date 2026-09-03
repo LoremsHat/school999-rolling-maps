@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bully/door_01"
+	"$bumpmap" "bully/door_01_norm"
+	"$surfaceprop" "Default"
+}

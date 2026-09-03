@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bully/wood_01"
+	"$bumpmap" "bully/wall_01_norm"
+	"$surfaceprop" "Wood_Plank"
+}

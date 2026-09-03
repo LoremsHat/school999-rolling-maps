@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	$phong 1
+	
+	$phongboost				1.0
+	$phongfresnelranges		"[0 0.5 1]"
+	
+	"$basetexture" "bully/board_02"
+	"$envmapmask" "bully/board_02_spec"
+	"$bumpmap" "bully/board_02_norm"
+	"$surfaceprop" "Default"
+}

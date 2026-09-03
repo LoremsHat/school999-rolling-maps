@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bully/cliff_03"
+	"$bumpmap" "bully/cliff_03_norm"
+	"$surfaceprop" "Rock"
+}

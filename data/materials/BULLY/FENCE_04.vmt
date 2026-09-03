@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bully/fence_04"
+	"$envmapmask" "bully/fence_04_spec"
+	"$bumpmap" "bully/fence_04_norm"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+}

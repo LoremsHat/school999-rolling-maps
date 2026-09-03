@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bully/wall_10"
+	"$envmapmask" "bully/wall_10_spec"
+	"$bumpmap" "bully/wall_10_norm"
+	"$surfaceprop" "Brick"
+}

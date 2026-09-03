@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bully/ceil_02"
+	"$envmapmask" "bully/ceil_02_spec"
+	"$bumpmap" "bully/ceil_02_norm"
+	"$surfaceprop" "Default"
+}
