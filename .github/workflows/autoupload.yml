@@ -17,7 +17,7 @@ jobs:
           appId: 4000
           itemId: 3795191392
           contentPath: ./data
-          changelog: Autoupload, see changes in https://github.com/LoremsHat/school999-rolling-map/commits/main/
+          changelog: Autoupload, see changes in https://github.com/LoremsHat/school999-rolling-maps/commits/main/
         env:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
