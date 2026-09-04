@@ -1,2 +1,2 @@
-gmad create -folder sources -out data/addon
+gmad create -folder sources -out data/addon -warninvalid
 pause
