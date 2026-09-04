@@ -1,0 +1,11 @@
+{
+	"title"		:	"[E] School 999 - Rolling Maps",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "roleplay", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
