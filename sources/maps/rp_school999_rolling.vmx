@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "10772"
-	"mapversion" "74"
+	"mapversion" "80"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,14 +62,14 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "74"
+	"mapversion" "80"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.8 from rp_saintlouis_v1"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
 	"message" "Made by Michael Kalis Inspired from Bully the game"
-	"skyname" "militia_hdr"
+	"skyname" "skyday_universal"
 	solid
 	{
 		"id" "2"
@@ -16064,7 +16064,7 @@ world
 		side
 		{
 			"id" "1500"
-			"plane" "(2660 -5800 88) (2660 -5800 -8) (2660 -3336 -8)"
+			"plane" "(2660 -5800 88) (2660 -5800 -8) (2660 -1768 -8)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -16075,7 +16075,7 @@ world
 		side
 		{
 			"id" "1501"
-			"plane" "(2668 -3336 88) (2668 -3336 -8) (2668 -5800 -8)"
+			"plane" "(2668 -1768 88) (2668 -1768 -8) (2668 -5800 -8)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -16097,7 +16097,7 @@ world
 		side
 		{
 			"id" "1503"
-			"plane" "(2660 -3336 88) (2660 -3336 -8) (2668 -3336 -8)"
+			"plane" "(2660 -1768 88) (2660 -1768 -8) (2668 -1768 -8)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -16108,7 +16108,7 @@ world
 		side
 		{
 			"id" "1504"
-			"plane" "(2660 -3336 -8) (2660 -5800 -8) (2668 -5800 -8)"
+			"plane" "(2660 -1768 -8) (2660 -5800 -8) (2668 -5800 -8)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -16119,7 +16119,7 @@ world
 		side
 		{
 			"id" "1505"
-			"plane" "(2660 -5800 88) (2660 -3336 88) (2668 -3336 88)"
+			"plane" "(2660 -5800 88) (2660 -1768 88) (2668 -1768 88)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -290457,82 +290457,6 @@ entity
 	"classname" "func_detail"
 	solid
 	{
-		"id" "24601"
-		side
-		{
-			"id" "24602"
-			"plane" "(2684 -3336 88) (2684 -3336 -8) (2684 -1768 -8)"
-			"material" "BULLY/FENCE_03"
-			"uaxis" "[0 1 0 75] 0.38"
-			"vaxis" "[0 0 -1 235] 0.38"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "24603"
-			"plane" "(2692 -1768 88) (2692 -1768 -8) (2692 -3336 -8)"
-			"material" "BULLY/FENCE_03"
-			"uaxis" "[0 1 0 75] 0.38"
-			"vaxis" "[0 0 -1 235] 0.38"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "24604"
-			"plane" "(2692 -3336 88) (2692 -3336 -8) (2684 -3336 -8)"
-			"material" "BULLY/FENCE_03"
-			"uaxis" "[1 0 0 -151] 0.38"
-			"vaxis" "[0 0 -1 235] 0.38"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "24605"
-			"plane" "(2684 -1768 88) (2684 -1768 -8) (2692 -1768 -8)"
-			"material" "BULLY/FENCE_03"
-			"uaxis" "[1 0 0 -151] 0.38"
-			"vaxis" "[0 0 -1 235] 0.38"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "24606"
-			"plane" "(2684 -1768 -8) (2684 -3336 -8) (2692 -3336 -8)"
-			"material" "BULLY/FENCE_03"
-			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "24607"
-			"plane" "(2684 -3336 88) (2684 -1768 88) (2692 -1768 88)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
 		"id" "24608"
 		side
 		{
@@ -290624,7 +290548,7 @@ entity
 		side
 		{
 			"id" "24617"
-			"plane" "(2684 -3328 88) (2684 -3328 -8) (2684 -3336 -8)"
+			"plane" "(2660 -3328 88) (2660 -3328 -8) (2660 -3336 -8)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -290635,7 +290559,7 @@ entity
 		side
 		{
 			"id" "24618"
-			"plane" "(2684 -3336 88) (2684 -3336 -8) (2588 -3336 -8)"
+			"plane" "(2660 -3336 88) (2660 -3336 -8) (2588 -3336 -8)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -290646,7 +290570,7 @@ entity
 		side
 		{
 			"id" "24619"
-			"plane" "(2588 -3328 88) (2588 -3328 -8) (2684 -3328 -8)"
+			"plane" "(2588 -3328 88) (2588 -3328 -8) (2660 -3328 -8)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -290657,7 +290581,7 @@ entity
 		side
 		{
 			"id" "24620"
-			"plane" "(2588 -3328 -8) (2588 -3336 -8) (2684 -3336 -8)"
+			"plane" "(2588 -3328 -8) (2588 -3336 -8) (2660 -3336 -8)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -290668,7 +290592,7 @@ entity
 		side
 		{
 			"id" "24621"
-			"plane" "(2588 -3336 88) (2588 -3328 88) (2684 -3328 88)"
+			"plane" "(2588 -3336 88) (2588 -3328 88) (2660 -3328 88)"
 			"material" "BULLY/FLOOR_08"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -424180,13 +424104,43 @@ entity
 		"logicalpos" "[9000 8500]"
 	}
 }
+entity
+{
+	"id" "513034"
+	"classname" "func_instance"
+	"angles" "-0 0 0"
+	"file" "/noindex/whatcoloristhesky.vmf"
+	"fixup_style" "0"
+	"origin" "124 0 15476"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "513040"
+	"classname" "func_instance_parms"
+	"parm1" "-100 100 100 origin"
+	"origin" "-191.547 -4649 217.007"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2498.17 -3346.44 357.849]"
-		"look" "[2556.19 -3255.02 114.645]"
+		"position" "[-1033.21 -4919.32 1706.69]"
+		"look" "[-934.247 -4683.89 1781.85]"
 	}
 	camera
 	{

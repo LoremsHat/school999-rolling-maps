@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "ddlc/really_black"
+
+	$nofog 1
+	$no_fullbright 1
+}

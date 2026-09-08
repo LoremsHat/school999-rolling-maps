@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "10772"
-	"mapversion" "75"
+	"mapversion" "81"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,14 +62,14 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "75"
+	"mapversion" "81"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.8 from rp_saintlouis_v1"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
 	"message" "Made by Michael Kalis Inspired from Bully the game"
-	"skyname" "militia_hdr"
+	"skyname" "skyday_universal"
 	solid
 	{
 		"id" "2"
@@ -424104,13 +424104,43 @@ entity
 		"logicalpos" "[9000 8500]"
 	}
 }
+entity
+{
+	"id" "513034"
+	"classname" "func_instance"
+	"angles" "-0 0 0"
+	"file" "/noindex/whatcoloristhesky.vmf"
+	"fixup_style" "0"
+	"origin" "124 0 15215"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "513040"
+	"classname" "func_instance_parms"
+	"parm1" "-100 100 100 origin"
+	"origin" "-191.547 -4649 217.007"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2661.31 -3120.53 163.527]"
-		"look" "[2675.51 -3374.45 84.8045]"
+		"position" "[-1033.21 -4919.32 1706.69]"
+		"look" "[-934.247 -4683.89 1781.85]"
 	}
 	camera
 	{

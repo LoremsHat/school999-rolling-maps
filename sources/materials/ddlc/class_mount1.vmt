@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "ddlc/class_mount1"
+
+	$alphatest 1
+}

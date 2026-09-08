@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "ddlc/class_housered"
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.10 0.10 0.10]"
+}
