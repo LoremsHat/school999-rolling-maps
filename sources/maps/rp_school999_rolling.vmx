@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "10826"
-	"mapversion" "72"
+	"mapversion" "73"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,7 +62,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "72"
+	"mapversion" "73"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.8 from rp_saintlouis_v1"
 	"detailmaterial" "detail/detailsprites"
@@ -199035,7 +199035,7 @@ world
 		side
 		{
 			"id" "44362"
-			"plane" "(1153 6396 -72) (1941 6396 -72) (1941 4386 -72)"
+			"plane" "(1152 6396 -72) (1941 6396 -72) (1941 4386 -72)"
 			"material" "TEST/SILENTBUG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -199046,7 +199046,7 @@ world
 		side
 		{
 			"id" "44363"
-			"plane" "(1153 4386 -104) (1941 4386 -104) (1941 6396 -104)"
+			"plane" "(1152 4386 -104) (1941 4386 -104) (1941 6396 -104)"
 			"material" "TEST/SILENTBUG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -199057,7 +199057,7 @@ world
 		side
 		{
 			"id" "44364"
-			"plane" "(1153 6396 -72) (1153 4386 -72) (1153 4386 -104)"
+			"plane" "(1152 6396 -72) (1152 4386 -72) (1152 4386 -104)"
 			"material" "TEST/SILENTBUG"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -199079,7 +199079,7 @@ world
 		side
 		{
 			"id" "44366"
-			"plane" "(1941 6396 -72) (1153 6396 -72) (1153 6396 -104)"
+			"plane" "(1941 6396 -72) (1152 6396 -72) (1152 6396 -104)"
 			"material" "TEST/SILENTBUG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -199090,7 +199090,7 @@ world
 		side
 		{
 			"id" "44367"
-			"plane" "(1941 4386 -104) (1153 4386 -104) (1153 4386 -72)"
+			"plane" "(1941 4386 -104) (1152 4386 -104) (1152 4386 -72)"
 			"material" "TEST/SILENTBUG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -424641,8 +424641,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1143.43 4394.77 44.5856]"
-		"look" "[1400.5 4382.19 -23.4213]"
+		"position" "[1028.31 5306.53 163.254]"
+		"look" "[1123.02 5393.01 -70.035]"
 	}
 	camera
 	{
