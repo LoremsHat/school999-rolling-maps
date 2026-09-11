@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "10772"
-	"mapversion" "90"
+	"mapversion" "92"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,7 +62,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "90"
+	"mapversion" "92"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.8 from rp_saintlouis_v1"
 	"detailmaterial" "detail/detailsprites"
@@ -200812,6 +200812,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -200924,6 +200925,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -201036,6 +201038,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -201148,6 +201151,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -201260,6 +201264,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -201372,6 +201377,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -201484,6 +201490,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -201596,6 +201603,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -201914,6 +201922,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2276 -5255 46"
 	editor
 	{
@@ -201949,6 +201958,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2276 -5055 46"
 	editor
 	{
@@ -201984,6 +201994,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2276 -4855 46"
 	editor
 	{
@@ -202019,6 +202030,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2276 -4655 46"
 	editor
 	{
@@ -202054,6 +202066,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2276 -4455 46"
 	editor
 	{
@@ -202089,6 +202102,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2140 -4409 46"
 	editor
 	{
@@ -202124,6 +202138,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2140 -4609 46"
 	editor
 	{
@@ -202159,6 +202174,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2140 -5009 46"
 	editor
 	{
@@ -202194,6 +202210,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "-2140 -5209 46"
 	editor
 	{
@@ -205928,6 +205945,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -206040,6 +206058,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -206152,6 +206171,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -206264,6 +206284,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -206376,6 +206397,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -206488,6 +206510,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -206600,6 +206623,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -206712,6 +206736,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -207030,6 +207055,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1460 -4453 46"
 	editor
 	{
@@ -207045,7 +207071,7 @@ entity
 	"classname" "prop_door_rotating"
 	"ajarangles" "0 0 0"
 	"angles" "0 180 0"
-	"axis" "1460 -4653 46, 1460 -4653 46"
+	"axis" "1462 -4653 46, 1460 -4653 46"
 	"disableshadows" "0"
 	"distance" "90"
 	"dmg" "0"
@@ -207065,6 +207091,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1460 -4653 46"
 	editor
 	{
@@ -207100,6 +207127,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1460 -4853 46"
 	editor
 	{
@@ -207135,6 +207163,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1460 -5053 46"
 	editor
 	{
@@ -207170,6 +207199,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1460 -5253 46"
 	editor
 	{
@@ -207205,6 +207235,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1324 -5299 46"
 	editor
 	{
@@ -207240,6 +207271,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1324 -5099 46"
 	editor
 	{
@@ -207275,6 +207307,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1324 -4699 46"
 	editor
 	{
@@ -207310,6 +207343,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "free"
 	"origin" "1324 -4499 46"
 	editor
 	{
@@ -231607,6 +231641,7 @@ entity
 	"spawnflags" "336"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -231719,6 +231754,7 @@ entity
 	"spawnflags" "336"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -231831,6 +231867,7 @@ entity
 	"spawnflags" "336"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -231943,6 +231980,7 @@ entity
 	"spawnflags" "336"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -423258,8 +423296,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-858.045 -2616.49 515.194]"
-		"look" "[-623.452 -2741.22 498.477]"
+		"position" "[-278.733 -4738.58 253.675]"
+		"look" "[-203.568 -4483.2 255.534]"
 	}
 	camera
 	{

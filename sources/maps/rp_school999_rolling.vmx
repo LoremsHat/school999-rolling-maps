@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "10772"
-	"mapversion" "89"
+	"mapversion" "91"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -53,7 +53,7 @@ visgroups
 }
 viewsettings
 {
-	"bSnapToGrid" "0"
+	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
 	"nGridSpacing" "2"
@@ -62,7 +62,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "89"
+	"mapversion" "91"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.8 from rp_saintlouis_v1"
 	"detailmaterial" "detail/detailsprites"
@@ -198515,11 +198515,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "bd2"
+	"slavename" "restrict4"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "bd1"
+	"targetname" "restrict3"
 	"origin" "-1940 -4911 46"
 	editor
 	{
@@ -198552,11 +198552,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "bd1"
+	"slavename" "restrict3"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "bd2"
+	"targetname" "restrict4"
 	"origin" "-1940 -4817 46"
 	editor
 	{
@@ -202226,11 +202226,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "bdt1"
+	"slavename" "rest3"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "bdt2"
+	"targetname" "rest4"
 	"origin" "-2255 -5364 46"
 	editor
 	{
@@ -202263,11 +202263,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "bdt2"
+	"slavename" "rest4"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "bdt1"
+	"targetname" "rest3"
 	"origin" "-2161 -5364 46"
 	editor
 	{
@@ -203631,11 +203631,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "gd1"
+	"slavename" "restrict2"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "gd2"
+	"targetname" "restrict1"
 	"origin" "1124 -4797 46"
 	editor
 	{
@@ -203668,11 +203668,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "gd2"
+	"slavename" "restrict1"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "gd1"
+	"targetname" "restrict2"
 	"origin" "1124 -4891 46"
 	editor
 	{
@@ -207342,11 +207342,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "gdt1"
+	"slavename" "rest1"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "gdt2"
+	"targetname" "rest2"
 	"origin" "1439 -4344 46"
 	editor
 	{
@@ -207379,11 +207379,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "gdt2"
+	"slavename" "rest2"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "gdt1"
+	"targetname" "rest1"
 	"origin" "1345 -4344 46"
 	editor
 	{
@@ -208898,6 +208898,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "english"
 	"origin" "63 -2488 110"
 	editor
 	{
@@ -208933,6 +208934,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "literature"
 	"origin" "655 -2488 110"
 	editor
 	{
@@ -208965,11 +208967,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac7"
+	"slavename" "culturel"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac8"
+	"targetname" "culture"
 	"origin" "479 -1712 110"
 	editor
 	{
@@ -209002,11 +209004,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac8"
+	"slavename" "culture"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac7"
+	"targetname" "culturel"
 	"origin" "385 -1712 110"
 	editor
 	{
@@ -209039,11 +209041,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac10"
+	"slavename" "act"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac9"
+	"targetname" "actl"
 	"origin" "-1055 -1712 110"
 	editor
 	{
@@ -209076,11 +209078,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac9"
+	"slavename" "actl"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac10"
+	"targetname" "act"
 	"origin" "-961 -1712 110"
 	editor
 	{
@@ -209116,6 +209118,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "kr"
 	"origin" "-1231 -2488 110"
 	editor
 	{
@@ -209151,6 +209154,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "museum"
 	"origin" "-639 -2488 110"
 	editor
 	{
@@ -209183,11 +209187,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac14"
+	"slavename" "chem"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac13"
+	"targetname" "cheml"
 	"origin" "-1055 -1712 246"
 	editor
 	{
@@ -209220,11 +209224,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac13"
+	"slavename" "cheml"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac14"
+	"targetname" "chem"
 	"origin" "-961 -1712 246"
 	editor
 	{
@@ -209260,6 +209264,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "teach"
 	"origin" "-639 -2488 246"
 	editor
 	{
@@ -209295,6 +209300,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "head"
 	"origin" "-1231 -2488 246"
 	editor
 	{
@@ -209330,6 +209336,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "rus"
 	"origin" "63 -2488 246"
 	editor
 	{
@@ -209365,6 +209372,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "math"
 	"origin" "655 -2488 246"
 	editor
 	{
@@ -209397,11 +209405,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac15"
+	"slavename" "phys"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac16"
+	"targetname" "physl"
 	"origin" "385 -1712 246"
 	editor
 	{
@@ -209434,11 +209442,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac16"
+	"slavename" "physl"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac15"
+	"targetname" "phys"
 	"origin" "479 -1712 246"
 	editor
 	{
@@ -209471,11 +209479,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac18"
+	"slavename" "it"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac17"
+	"targetname" "itl"
 	"origin" "-1055 -1712 382"
 	editor
 	{
@@ -209508,11 +209516,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac17"
+	"slavename" "itl"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac18"
+	"targetname" "it"
 	"origin" "-961 -1712 382"
 	editor
 	{
@@ -209548,6 +209556,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "lab"
 	"origin" "-639 -2488 382"
 	editor
 	{
@@ -209583,6 +209592,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "psychologist"
 	"origin" "-1231 -2488 382"
 	editor
 	{
@@ -209618,6 +209628,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "geo"
 	"origin" "63 -2488 382"
 	editor
 	{
@@ -209653,6 +209664,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "hist"
 	"origin" "655 -2488 382"
 	editor
 	{
@@ -209685,11 +209697,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac20"
+	"slavename" "bio"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac19"
+	"targetname" "biol"
 	"origin" "385 -1712 382"
 	editor
 	{
@@ -209722,11 +209734,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac19"
+	"slavename" "biol"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac20"
+	"targetname" "bio"
 	"origin" "479 -1712 382"
 	editor
 	{
@@ -209762,6 +209774,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"origin" "103 -2288 246"
 	editor
 	{
@@ -209797,6 +209810,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"origin" "-633 -2288 246"
 	editor
 	{
@@ -209832,6 +209846,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"origin" "57 -1912 382"
 	editor
 	{
@@ -209867,6 +209882,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "restrict"
 	"origin" "-679 -1912 382"
 	editor
 	{
@@ -231029,11 +231045,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac11"
+	"slavename" "directorl"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac12"
+	"targetname" "director"
 	"origin" "-289 -1456 246"
 	editor
 	{
@@ -231066,11 +231082,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "0"
-	"slavename" "ac12"
+	"slavename" "director"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "ac11"
+	"targetname" "directorl"
 	"origin" "-383 -1456 246"
 	editor
 	{
@@ -231106,6 +231122,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "medic"
 	"origin" "-111 -1712 246"
 	editor
 	{
@@ -240394,7 +240411,7 @@ entity
 	"spawnflags" "304"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "cl1"
+	"targetname" "prison"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -240507,7 +240524,7 @@ entity
 	"spawnflags" "304"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "cl2"
+	"targetname" "prison"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -240663,7 +240680,7 @@ entity
 	"spawnflags" "304"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "cl3"
+	"targetname" "prison"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -240819,7 +240836,7 @@ entity
 	"spawnflags" "304"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "cl4"
+	"targetname" "prison"
 	"unlocked_sentence" "0"
 	"wait" "4"
 	solid
@@ -240976,7 +240993,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "jd2"
+	"targetname" "prison"
 	"origin" "-2227 3067 94"
 	editor
 	{
@@ -241013,7 +241030,7 @@ entity
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
-	"targetname" "jd1"
+	"targetname" "prison"
 	"origin" "-2321 3067 94"
 	editor
 	{
@@ -423241,8 +423258,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[326.718 4625.62 491.375]"
-		"look" "[534.93 4790.66 474.659]"
+		"position" "[-521.301 -3399.07 381.267]"
+		"look" "[-346.825 -3595.58 338.704]"
 	}
 	camera
 	{
