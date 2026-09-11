@@ -5499,3 +5499,808 @@ Reduced 2703 texinfos to 1628
 Reduced 184 texdatas to 153 (5315 bytes to 4125)
 Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
 8 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+material "/bark01" not found.
+Patching WVT material: maps/rp_school999_rolling/nature/blendgrassgravel001b_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008_2_plants_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008b_2_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground005_2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2254 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1646326 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2712 texinfos to 1632
+Reduced 186 texdatas to 155 (5358 bytes to 4168)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+9 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+material "/bark01" not found.
+Patching WVT material: maps/rp_school999_rolling/nature/blendgrassgravel001b_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008_2_plants_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008b_2_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground005_2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2254 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1646294 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2713 texinfos to 1631
+Reduced 186 texdatas to 155 (5358 bytes to 4168)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+8 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+material "/bark01" not found.
+Patching WVT material: maps/rp_school999_rolling/nature/blendgrassgravel001b_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008_2_plants_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008b_2_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground005_2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1868.0 2048.0 15713.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735070: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1856.0 15233.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1856.0 15247.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1374.0 2048.0 15713.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2008.0 15727.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (502.0 1856.0 15259.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1014.0 1856.0 15259.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 2048.0 15727.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+*** Suppressing further FindPortalSide errors.... ***
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2254 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1645966 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2719 texinfos to 1630
+Reduced 187 texdatas to 155 (5374 bytes to 4162)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+8 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+material "/bark01" not found.
+Patching WVT material: maps/rp_school999_rolling/nature/blendgrassgravel001b_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008_2_plants_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008b_2_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground005_2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1868.0 2048.0 15713.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735070: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1856.0 15233.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1856.0 15247.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1374.0 2048.0 15713.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2008.0 15727.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (502.0 1856.0 15259.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1014.0 1856.0 15259.0)
+Leaf 0 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 2048.0 15727.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 735067: 
+
+*** Suppressing further FindPortalSide errors.... ***
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2254 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1645966 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2719 texinfos to 1630
+Reduced 187 texdatas to 155 (5374 bytes to 4162)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+8 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+Patching WVT material: maps/rp_school999_rolling/nature/blendgrassgravel001b_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008_2_plants_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008b_2_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground005_2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2254 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1647734 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2714 texinfos to 1630
+Reduced 185 texdatas to 154 (5350 bytes to 4160)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+8 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+Patching WVT material: maps/rp_school999_rolling/nature/blendgrassgravel001b_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008_2_plants_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008b_2_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground005_2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2254 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1647734 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008_2_PLANTS uses unknown detail object type militia_leaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2714 texinfos to 1630
+Reduced 185 texdatas to 154 (5350 bytes to 4160)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+8 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+Patching WVT material: maps/rp_school999_rolling/nature/blendgrassgravel001b_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground008b_2_wvt_patch
+Patching WVT material: maps/rp_school999_rolling/nature/blendmilground005_2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+env_cubemap pointing at deleted brushside near (680, -640, 264)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2254 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skyday_universal*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1646640 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2698 texinfos to 1631
+Reduced 178 texdatas to 149 (4951 bytes to 3900)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+10 seconds elapsed
