@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "nisao/fog_concentrate"
+	"$translucent" 0
+	"$phong"	0
+	"$nofog" 1
+}
+
