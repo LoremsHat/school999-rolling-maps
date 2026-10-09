@@ -6758,3 +6758,387 @@ Average clusters audible: 2178
 visdatasize:1186587  compressed from 1222480
 writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
 1 second elapsed
+
+==================================================================
+Date: 2026-10-09 20:18:50
+F:\Steam\steamapps\common\GarrysMod\bin\vbsp++.exe -game F:\Steam\steamapps\common\GarrysMod\garrysmod c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling
+==================================================================
+CPU: AMD FX(tm)-8350 Eight-Core Processor (8 threads)
+---------------
+gamedir: F:\Steam\steamapps\common\GarrysMod\garrysmod\
+---------------
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+Locating GameData file 'garrysmod.fgd'...
+Parsing GameData file F:\Steam\steamapps\common\GarrysMod\bin\garrysmod.fgd
+Parsing GameData file F:\Steam\steamapps\common\GarrysMod\bin\base.fgd
+Parsing GameData file F:\Steam\steamapps\common\GarrysMod\bin\halflife2.fgd
+Parsing GameData file F:\Steam\steamapps\common\GarrysMod\bin\base.fgd
+fixing up env_cubemap materials on brush sides...
+FloodEntities...
+FloodEntities...
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 2240 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Generating blank default cubemaps...
+Generating blank default cubemaps...
+Emitted 4893 brushes and 36846 brushsides
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Building Physics collision data...
+done (1) (1847755 bytes)
+Emitting static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2669 texinfos to 1589
+Reduced 226 texdatas to 188 (8078 bytes to 6466)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+3 seconds elapsed
+
+==================================================================
+Date: 2026-10-09 20:18:55
+F:\Steam\steamapps\common\GarrysMod\bin\vvis++.exe -fast -game F:\Steam\steamapps\common\GarrysMod\garrysmod c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling
+==================================================================
+CPU: AMD FX(tm)-8350 Eight-Core Processor (8 threads)
+CPU does not support AVX2
+reading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+reading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt
+2146 portalclusters
+5588 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0.5 s)
+Optimized: 203280 visible clusters (5.31%)
+Total clusters visible: 3830192
+Average clusters visible: 1784
+Building PAS...
+Average clusters audible: 2140
+visdatasize:1151285  compressed from 1167424
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+0 seconds elapsed
+
+==================================================================
+Date: 2026-10-09 20:18:57
+F:\Steam\steamapps\common\GarrysMod\bin\vrad++.exe -bounce 2 -noextra -game F:\Steam\steamapps\common\GarrysMod\garrysmod c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling
+==================================================================
+---------------
+gamedir: F:\Steam\steamapps\common\GarrysMod\garrysmod\
+---------------
+CPU: AMD FX(tm)-8350 Eight-Core Processor (8 threads)
+	Checking GPU: AMD Radeon RX 6600 (discrete), Vulkan 1.4.315, driver 2.0.353
+GPU: AMD Radeon RX 6600
+Compiling in LDR mode
+Reading texlights from 'lights.rad'...
+51 texlights parsed
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+651 props added to raytrace
+Snapshotted 94033 triangles in BVH (603 degenerate)
+14758 faces
+416 fake patch planes
+3286620 square feet [473273344.00 square inches]
+62 Displacements
+311308 Square Feet [44828368.00 Square Inches]
+FindNeighbors:       0...1...2...3...4...5...6...7...8...9...10 (0.4 s)
+14758 patches before subdivision
+218772 patches after subdivision
+CreateDirectLights...
+BuildLightVisibility: 0...1...2...3...4...5...6...7...8...9...10 (0.2 s)
+690 lights, 36 styled (0.20 s)
+GPU: Building scene...
+Done (0.07 s)
+BuildFacelightsGPU: 1...2...3...4...5...6...7...8...9...10 (2.7 s)
+  2.73M luxels + 0.00M supersamples in 11 chunks
+  prepare 0.2s, upload 0.9s, solve 0.3s, the rest 1.3s
+  ranked lightstyles on 1589 faces with more than 3 styles (0.4s)
+BuildVisMatrixGPU: 1...2...3...4...5...6...7...8...9...10 (2.3 s)
+  1073.9M pairs, 21.1M candidates, 21 batches
+  prepare 0.4s, solve 1.1s, scatter 0.8s
+transfers 28282620, max 2534
+transfer lists: 215.8 megs
+Bounce  1 added RGB(697737, 590407, 400214)
+Bounce  2 added RGB(201018, 145829, 83233)
+BounceLightGPU: 2 bounces (0.7 s)
+  28.3M transfers in 1 segments, 9 parent levels
+  upload 0.6s, solve 0.0s (22.1 ms per bounce)
+Build Patch/Sample Hash Table(s).....Done<0.2498 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (1.0 s)
+FinalLightFace Done
+GPU: the map has more than 8 detail prop lightstyles
+GPU: detail prop solver failed, falling back to the CPU
+ComputeDetailPropLighting: 0...1...2...3...4...5...6...7...8...9...10 (0.7 s)
+Setting up leaf ambient computation...
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+178218 leaf ambient samples in 0.2 seconds
+ComputeLeafAmbientGPU: 1...2...3...4...5...6...7...8...9...10 (0.2 s)
+  178218 samples, 35149 triangles, 29.0M rays
+  prepare 0.1s, solve 0.1s
+  select 0.2s
+Writing leaf ambient...done
+Ready to Finish
+Estimated GPU memory usage:
+------------------------
+                                   peak   uploaded     leaked   allocs
+vis matrix                     481.9 MB   508.6 MB          -       16
+bounce transfers               431.6 MB   431.6 MB          -        2
+misc                           153.4 MB   154.5 MB   153.4 MB       26
+bounce                          67.1 MB   107.4 MB          -       28
+leaf ambient geometry           43.9 MB    45.6 MB          -       12
+leaf ambient samples            38.1 MB    38.1 MB          -        4
+BVH                             24.5 MB    28.9 MB    17.8 MB       12
+BVH build scratch               16.5 MB    22.7 MB          -        4
+alpha shadow textures             320 B      324 B      288 B        4
+total peak VRAM usage          669.8 MB
+
+Object names       Objects/Maxobjs  Fullness 
+------------       ---------------  -------- 
+entities              1141/65536    ( 1.7%) 
+models                 177/4096     ( 4.3%) 
+brushes               4893/65536    ( 7.5%) 
+brushsides           36846/655350   ( 5.6%) 
+planes               10780/65536    (16.4%) 
+vertexes             25169/65536    (38.4%) 
+nodes                 6200/65536    ( 9.5%) 
+texinfos              1589/32768    ( 4.8%) 
+texdata                188/8192     ( 2.3%) 
+dispinfos               62/16384    ( 0.4%) 
+faces                14758/65536    (22.5%) 
+hdr faces                0/65536    ( 0.0%) 
+origfaces             8979/65536    (13.7%) 
+leaves                6378/65536    ( 9.7%) 
+leaffaces            17951/65536    (27.4%) 
+leafbrushes           8640/65536    (13.2%) 
+areas                    3/1024     ( 0.3%) 
+surfedges            68677/512000   (13.4%) 
+edges                38227/256000   (14.9%) 
+leafwaterdata            1/32768    ( 0.0%) 
+primitives            1483/32768    ( 4.5%) 
+primverts                0/65536    ( 0.0%) 
+primindices          25968/65536    (39.6%) 
+cubemapsamples          62/1024     ( 6.1%) 
+overlays                 0/8192     ( 0.0%) 
+vertnormalindices    68522/256000   (26.8%) 
+visdata            1151285/16777216 ( 6.9%) 
+entdata             490528/393216   (124.7%) FULL!!!
+LDR ambient table     6378/65536    ( 9.7%) 
+HDR ambient table     6378/65536    ( 9.7%) 
+LDR worldlights            690     
+HDR worldlights            0       
+LDR lightdata              22102196 bytes
+HDR lightdata              0        bytes
+LDR leaf ambient           25327   
+HDR leaf ambient           6378    
+occluders                  0       
+detail props               4854    
+dtl prp lght               0       
+HDR dtl prp lght           0       
+static props               651     
+pakfile                    3686298  bytes
+physics                    1847755  bytes
+physics terrain            18581    bytes
+
+Level flags = 0
+
+Total triangle count: 39006
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+10 seconds elapsed
+
+==================================================================
+Date: 2026-10-09 20:33:56
+F:\Steam\steamapps\common\GarrysMod\bin\vbsp++.exe -game F:\Steam\steamapps\common\GarrysMod\garrysmod c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling
+==================================================================
+CPU: AMD FX(tm)-8350 Eight-Core Processor (8 threads)
+---------------
+gamedir: F:\Steam\steamapps\common\GarrysMod\garrysmod\
+---------------
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.vmf
+Locating GameData file 'garrysmod.fgd'...
+Parsing GameData file F:\Steam\steamapps\common\GarrysMod\bin\garrysmod.fgd
+Parsing GameData file F:\Steam\steamapps\common\GarrysMod\bin\base.fgd
+Parsing GameData file F:\Steam\steamapps\common\GarrysMod\bin\halflife2.fgd
+Parsing GameData file F:\Steam\steamapps\common\GarrysMod\bin\base.fgd
+fixing up env_cubemap materials on brush sides...
+FloodEntities...
+FloodEntities...
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2240 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt...
+Building visibility clusters...
+done (0)
+Generating blank default cubemaps...
+Generating blank default cubemaps...
+Emitted 4898 brushes and 36871 brushsides
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Building Physics collision data...
+done (0) (1849715 bytes)
+Emitting static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDMILGROUND008B_2 uses unknown detail object type militia_darkleaves_grass!
+Material NATURE/BLENDMILGROUND005_2 uses unknown detail object type militia_rock_grass!
+.10
+Compacting texture/material tables...
+Reduced 2687 texinfos to 1599
+Reduced 226 texdatas to 188 (8078 bytes to 6466)
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+3 seconds elapsed
+
+==================================================================
+Date: 2026-10-09 20:34:00
+F:\Steam\steamapps\common\GarrysMod\bin\vvis++.exe -fast -game F:\Steam\steamapps\common\GarrysMod\garrysmod c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling
+==================================================================
+CPU: AMD FX(tm)-8350 Eight-Core Processor (8 threads)
+CPU does not support AVX2
+reading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+reading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.prt
+2169 portalclusters
+5656 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0.5 s)
+Optimized: 204833 visible clusters (5.22%)
+Total clusters visible: 3921710
+Average clusters visible: 1808
+Building PAS...
+Average clusters audible: 2164
+visdatasize:1177692  compressed from 1179936
+writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+0 seconds elapsed
+
+==================================================================
+Date: 2026-10-09 20:34:01
+F:\Steam\steamapps\common\GarrysMod\bin\vrad++.exe -bounce 2 -noextra -game F:\Steam\steamapps\common\GarrysMod\garrysmod c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling
+==================================================================
+---------------
+gamedir: F:\Steam\steamapps\common\GarrysMod\garrysmod\
+---------------
+CPU: AMD FX(tm)-8350 Eight-Core Processor (8 threads)
+	Checking GPU: AMD Radeon RX 6600 (discrete), Vulkan 1.4.315, driver 2.0.353
+GPU: AMD Radeon RX 6600
+Compiling in LDR mode
+Reading texlights from 'lights.rad'...
+51 texlights parsed
+Loading c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+651 props added to raytrace
+Snapshotted 94071 triangles in BVH (604 degenerate)
+14891 faces
+416 fake patch planes
+3291205 square feet [473933632.00 square inches]
+62 Displacements
+311308 Square Feet [44828368.00 Square Inches]
+FindNeighbors:       0...1...2...3...4...5...6...7...8...9...10 (0.5 s)
+14891 patches before subdivision
+220869 patches after subdivision
+CreateDirectLights...
+BuildLightVisibility: 0...1...2...3...4...5...6...7...8...9...10 (0.2 s)
+690 lights, 36 styled (0.17 s)
+GPU: Building scene...
+Done (0.04 s)
+BuildFacelightsGPU: 1...2...3...4...5...6...7...8...9...10 (2.6 s)
+  2.75M luxels + 0.00M supersamples in 11 chunks
+  prepare 0.2s, upload 0.9s, solve 0.3s, the rest 1.2s
+  ranked lightstyles on 1589 faces with more than 3 styles (0.3s)
+BuildVisMatrixGPU: 1...2...3...4...5...6...7...8...9...10 (2.0 s)
+  1099.5M pairs, 21.7M candidates, 22 batches
+  prepare 0.2s, solve 1.2s, scatter 0.6s
+transfers 29386004, max 2650
+transfer lists: 224.2 megs
+Bounce  1 added RGB(703245, 596339, 402774)
+Bounce  2 added RGB(201283, 146125, 83262)
+BounceLightGPU: 2 bounces (0.6 s)
+  29.4M transfers in 1 segments, 9 parent levels
+  upload 0.6s, solve 0.0s (17.9 ms per bounce)
+Build Patch/Sample Hash Table(s).....Done<0.2169 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0.8 s)
+FinalLightFace Done
+GPU: the map has more than 8 detail prop lightstyles
+GPU: detail prop solver failed, falling back to the CPU
+ComputeDetailPropLighting: 0...1...2...3...4...5...6...7...8...9...10 (0.5 s)
+Setting up leaf ambient computation...
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+179271 leaf ambient samples in 0.2 seconds
+ComputeLeafAmbientGPU: 1...2...3...4...5...6...7...8...9...10 (0.1 s)
+  179271 samples, 35416 triangles, 29.2M rays
+  prepare 0.1s, solve 0.0s
+  select 0.2s
+Writing leaf ambient...done
+Ready to Finish
+Estimated GPU memory usage:
+------------------------
+                                   peak   uploaded     leaked   allocs
+vis matrix                     482.2 MB   509.2 MB          -       16
+bounce transfers               448.4 MB   448.4 MB          -        2
+misc                           153.5 MB   154.6 MB   153.5 MB       26
+bounce                          67.6 MB   108.3 MB          -       28
+leaf ambient geometry           43.9 MB    45.6 MB          -       12
+leaf ambient samples            38.3 MB    38.3 MB          -        4
+BVH                             24.5 MB    29.0 MB    17.8 MB       12
+BVH build scratch               16.5 MB    22.7 MB          -        4
+alpha shadow textures             320 B      324 B      288 B        4
+total peak VRAM usage          687.3 MB
+
+Object names       Objects/Maxobjs  Fullness 
+------------       ---------------  -------- 
+entities              1141/65536    ( 1.7%) 
+models                 177/4096     ( 4.3%) 
+brushes               4898/65536    ( 7.5%) 
+brushsides           36871/655350   ( 5.6%) 
+planes               10792/65536    (16.5%) 
+vertexes             25399/65536    (38.8%) 
+nodes                 6249/65536    ( 9.5%) 
+texinfos              1599/32768    ( 4.9%) 
+texdata                188/8192     ( 2.3%) 
+dispinfos               62/16384    ( 0.4%) 
+faces                14891/65536    (22.7%) 
+hdr faces                0/65536    ( 0.0%) 
+origfaces             8995/65536    (13.7%) 
+leaves                6427/65536    ( 9.8%) 
+leaffaces            18094/65536    (27.6%) 
+leafbrushes           8682/65536    (13.2%) 
+areas                    3/1024     ( 0.3%) 
+surfedges            69336/512000   (13.5%) 
+edges                38559/256000   (15.1%) 
+leafwaterdata            1/32768    ( 0.0%) 
+primitives            1510/32768    ( 4.6%) 
+primverts                0/65536    ( 0.0%) 
+primindices          26298/65536    (40.1%) 
+cubemapsamples          62/1024     ( 6.1%) 
+overlays                 0/8192     ( 0.0%) 
+vertnormalindices    69181/256000   (27.0%) 
+visdata            1177692/16777216 ( 7.0%) 
+entdata             490528/393216   (124.7%) FULL!!!
+LDR ambient table     6427/65536    ( 9.8%) 
+HDR ambient table     6427/65536    ( 9.8%) 
+LDR worldlights            690     
+HDR worldlights            0       
+LDR lightdata              22089756 bytes
+HDR lightdata              0        bytes
+LDR leaf ambient           25574   
+HDR leaf ambient           6427    
+occluders                  0       
+detail props               4854    
+dtl prp lght               0       
+HDR dtl prp lght           0       
+static props               651     
+pakfile                    3686298  bytes
+physics                    1849715  bytes
+physics terrain            18581    bytes
+
+Level flags = 0
+
+Total triangle count: 39399
+Writing c:\users\lorem\documents\github\school999-rolling-map\sources\maps\rp_school999_rolling.bsp
+9 seconds elapsed
